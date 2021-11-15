@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/syncom/hkdf_hmacsha512/actions/workflows/build.yml/badge.svg)]
+
 # hkdf_hmacsha512: HKDF-HMACSHA512 (RFC 5869) with libsodium
 
 This is an implementation of HKDF based on HMAC-SHA512, using the
